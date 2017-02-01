@@ -1,6 +1,6 @@
 # React Native User Authentication App
 ---
-#### Authentication done using Firebase
+### Authentication done using Firebase
 
 An app that allow a user to login, or register and then logout. For simplicity and for the purposes of this project, registration form is the same as login form.
 
